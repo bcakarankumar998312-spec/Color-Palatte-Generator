@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    padding: 1rem;
+    line-height: 4rem;
+    background-color: aquamarine;
+}
+
+.cg{
+    display: flex;
+    
+}
+
+.cp{
+    height: 6rem;
+    width: 10rem;
+    background-color: bisque;
+}
+
+
+.saved-palettes{
+    margin-top: 2rem;
+}
+
+.saved-palette{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.saved-palette div{
+    width: 80px;
+    height: 80px;
+}
